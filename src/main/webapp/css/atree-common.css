@@ -1,0 +1,83 @@
+body{
+	margin:0px;
+    font-family:Georgia;
+	}	
+	
+.aheader{
+	background-color:black;
+	color:white;
+    padding:10px;
+	padding-left:20px;
+}
+
+.atree-table{
+        position: relative;
+}
+
+.headerMenuItems{
+padding:5px;
+}
+
+.headerMenuItems:hover{
+color:white;
+font-weight:bold;
+}
+
+.barndName{
+	font-size:35px;
+	font-weight:bold;
+	width:auto;
+	min-width:150px;
+	position:relative;
+	}
+	
+.atree-col{
+	display:inline-block;
+}
+.atree-row {
+	display:block;
+	width:100%;
+}
+
+.headerMenu div{
+	color:#B9B7B6;	
+	display:inline-block;
+	float:right;
+}
+
+.headerMenu{
+	vertical-align:bottom;
+	min-width:80%;
+	max-width:100%;
+	position:relative;
+	}
+
+.atree-product{
+	height:auto;
+	min-height:250px;
+	width:290px;
+	text-align:center;
+	background-color:white;
+	border-radius:7px;
+	vertical-align:top;
+    margin:10px;
+	box-shadow: 5px 5px #A8A6AB;
+	transition: 0.5s;
+}
+
+.atree-product:hover{
+		width:300px;
+		box-shadow: 5px 5px #797282;
+}
+	
+.atree-products{
+    display: table;
+	margin-left: auto;
+    margin-right: auto;
+	padding:10px;
+}
+
+.abody{
+	background-image: linear-gradient(to right , #F7F1FF, #F8FEFE);
+}
+
