@@ -69,7 +69,11 @@ font-weight:bold;
 		width:300px;
 		box-shadow: 5px 5px #797282;
 }
-	
+
+.branchesLabel{
+		font-size:20px;
+		color:blue;	
+}
 .atree-products{
     display: table;
 	margin-left: auto;
