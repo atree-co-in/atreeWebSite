@@ -73,9 +73,4 @@
 		</dependency>
 
 	</dependencies>
-
-
-	<build>
-		<finalName>mvnProject</finalName>
-	</build>
 </project>
