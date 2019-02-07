@@ -44,13 +44,11 @@ public class StockHisRowMapper implements ResultSetExtractor {
 		List<StockHistory> list = new ArrayList<StockHistory>();
 		StockHistory he = new StockHistory();
 
-		System.out.println(rs.getMetaData().getTableName(1));
 		he.setSTOCKNAME(rs.getMetaData().getColumnName(1) + "," + rs.getMetaData().getColumnTypeName(1));
 		he.setPDATE(rs.getMetaData().getColumnName(2) + "," + rs.getMetaData().getColumnTypeName(2));
 		he.setVOLUME(rs.getMetaData().getColumnName(3) + "," + rs.getMetaData().getColumnTypeName(3));
 		he.setCLOSEPRICE(rs.getMetaData().getColumnName(4) + "," + rs.getMetaData().getColumnTypeName(4));
-		he.setADJCLOSE(rs.getMetaData().getColumnName(5) + "," + rs.getMetaData().getColumnTypeName(5));
-		he.setHIGHPRICE(rs.getMetaData().getColumnName(6) + "," + rs.getMetaData().getColumnTypeName(6));
+		he.setADJCLOSE(rs.getMetaData().getColumnName(5) + "," + rs.getMetaData().getColumnTypeName(6));
 		list.add(he);
 
 		while (rs.next()) {

@@ -11,6 +11,8 @@
 
   <script src="resources/js/jquery.min.js"></script>
   <script src="resources/js/grid/atree.grid.js"></script>  
+    <script src="resources/js/grid/table.creator.js"></script> 
+<!--       <script src="resources/js/grid/atree.grid-ol.js"></script> --> 
 </head>
 <body>
 <h1>Atree Grid</h1>
