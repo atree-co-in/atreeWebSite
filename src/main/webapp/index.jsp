@@ -23,7 +23,6 @@
 </div>
 
 <div id="atree-body atree-row" class="abody">
-<div class="branchesLabel">Branches</div>
 <div class="atree-products">
   <div class=" atree-col atree-product"> 
    <h4>Atree Grid</h4>
