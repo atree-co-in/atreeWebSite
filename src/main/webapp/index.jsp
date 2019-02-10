@@ -38,6 +38,10 @@
    <p>Coming soon</p>   
   </div>
   </div>
+  <div id="atreeDesc">
+  <p class="paraTitle">What is Atree?</p>
+  <p>Atree is place where developers shares their though, their vision and code to make other developer's job easy.</p>
+  </div>
 </div>
 
 </body>
