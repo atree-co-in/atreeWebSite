@@ -74,11 +74,26 @@ font-weight:bold;
 		font-size:15px;
 		color:purple;	
 }
+
+#atreeDesc {
+	padding: 10px;
+}
 .atree-products{
     display: table;
 	margin-left: auto;
     margin-right: auto;
 	padding:10px;
+}
+
+.atreeItemDesc
+{
+	background-color:white;
+	border-radius:7px;
+}
+
+#atreeItemContainer
+{
+	padding: 20px;	
 }
 
 .abody{

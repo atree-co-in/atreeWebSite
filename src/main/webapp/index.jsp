@@ -6,6 +6,7 @@
   <link rel="stylesheet" href="resources/css/atree-common.css">
   <link rel="shortcut icon" href="resources/AtreeIcon.jpg" />
   <script src="js/jquery.min.js"></script>
+  <script src="js/atree.mainpage.js"></script>
 </head>
 <body>
 <div id="atree-header" class="aheader atree-table">
@@ -38,9 +39,11 @@
    <p>Coming soon</p>   
   </div>
   </div>
-  <div id="atreeDesc">
-  <p class="paraTitle">What is Atree?</p>
-  <p>Atree is place where developers shares their though, their vision and code to make other developer's job easy.</p>
+  <div id="atreeItemContainer">
+  <div id="atreeDesc" class="atreeItemDesc">
+  <h3 class="paraTitle">What is Atree?</h3>
+  <p>Atree is place where developers shares their thought, vision, idea and code to make other developer's job easy. On Atree developers shares utility/framework/tool which can be reused by others to make development process faster. These platform is for idividuals who whats to share their creativity with world.</p>
+  </div>
   </div>
 </div>
 
