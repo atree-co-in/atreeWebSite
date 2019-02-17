@@ -76,13 +76,20 @@ font-weight:bold;
 }
 
 #atreeDesc {
-	padding: 50px;
+	padding: 10px;
+
 }
+
 .atree-products{
     display: table;
 	margin-left: auto;
     margin-right: auto;
 	padding:10px;
+}
+
+.paraTitle{
+	font-size:17px;
+	font-weight:bold;
 }
 
 .atreeItemDesc

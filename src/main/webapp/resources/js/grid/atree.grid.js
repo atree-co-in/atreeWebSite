@@ -940,7 +940,6 @@ function getAndSetRowcnt(tableId, chgflg) {
 	whereCls = $(thisid).attr("where");
     if(cnturl != null && cnturl != "?&")
     {
-    	alert(cnturl);
 	$.ajax({
 		type : "GET",
 		cache : false,

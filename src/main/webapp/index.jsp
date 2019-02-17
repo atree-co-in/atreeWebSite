@@ -5,8 +5,8 @@
 <meta charset="utf-8">
 <link rel="stylesheet" href="resources/css/atree-common.css">
 <link rel="shortcut icon" href="resources/AtreeIcon.jpg" />
-<script src="js/jquery.min.js"></script>
-<script src="js/atree.mainpage.js"></script>
+<script src="resources/js/jquery.min.js"></script>
+<script src="resources/js/atree.mainpage.js"></script>
 </head>
 <body>
 	<div id="atree-header" class="aheader atree-table">
@@ -28,17 +28,17 @@
 
 		<div id="atreeItemContainer">
 			<div id="atreeDesc" class="atreeItemDesc">
-				<h3 class="paraTitle">What is Atree?</h3>
-				<p>Atree is place where developers shares their thought, vision,
+				<span class="paraTitle">What is Atree?</span><br>
+				Atree is place where developers shares their thought, vision,
 					idea and code to make other developer's job easy. On Atree
 					developers shares utility/framework/tool which can be reused by
 					others to make development process faster. These platform is for
-					idividuals who whats to share their creativity with world.</p>
+					idividuals who whats to share their creativity with world.
 			</div>
 		</div>
 
 		<div class="atree-products">
-			<div class=" atree-col atree-product">
+			<div class=" atree-col atree-product" id="atreeGrid" href="atreeGrid.jsp">
 				<h4>Atree Grid</h4>
 				<img src="resources/atreeGrid.png"
 					style="width: 150px; height: 90px;"></img>
