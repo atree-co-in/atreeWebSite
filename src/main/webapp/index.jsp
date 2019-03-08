@@ -28,7 +28,7 @@
 
 		<div id="atreeItemContainer">
 			<div id="atreeDesc" class="atreeItemDesc">
-				<span class="paraTitle">What is Atree?</span><br>
+				<span class="paraTitle">What is Atree?</span><br><br>
 				Atree is place where developers shares their thought, vision,
 					idea and code to make other developer's job easy. On Atree
 					developers shares utility/framework/tool which can be reused by
