@@ -32,8 +32,7 @@
 				Atree is place where developers shares their thought, vision,
 					idea and code to make other developer's job easy. On Atree
 					developers shares utility/framework/tool which can be reused by
-					others to make development process faster. These platform is for
-					idividuals who whats to share their creativity with world.
+					others to make development process faster. 
 			</div>
 		</div>
 
