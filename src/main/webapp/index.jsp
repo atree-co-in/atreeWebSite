@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>atree</title>
+<title>Atree</title>
 <meta charset="utf-8">
 <link rel="stylesheet" href="resources/css/atree-common.css">
 <link rel="shortcut icon" href="resources/AtreeIcon.jpg" />
@@ -28,10 +28,10 @@
 
 		<div id="atreeItemContainer">
 			<div id="atreeDesc" class="atreeItemDesc">
-				<span class="paraTitle">What is Atree?</span><br><br>
-				Atree is place where developers shares their thought, vision,
+				<div style="padding:3px;"><span class="paraTitle">What is Atree?</span></div>
+				<div style="padding:3px;">Atree is place where developers share their thought, vision,
 					idea and code in the form of utility/framework/tool which can be reused by
-					others to make development process faster. 
+					others to make development process faster. </div>
 			</div>
 		</div>
 
