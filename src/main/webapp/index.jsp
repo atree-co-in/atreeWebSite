@@ -3,27 +3,14 @@
 <head>
 <title>Atree</title>
 <meta charset="utf-8">
+
 <link rel="stylesheet" href="resources/css/atree-common.css">
 <link rel="shortcut icon" href="resources/AtreeIcon.jpg" />
 <script src="resources/js/jquery.min.js"></script>
 <script src="resources/js/atree.mainpage.js"></script>
 </head>
 <body>
-	<div id="atree-header" class="aheader atree-table">
-		<div class="atree-row">
-			<div class="atree-col barndName">
-				<a id="atreeBrand"><img src="resources/AtreeIcon.jpg"></img>
-					atree</a>
-			</div>
-			<div class="atree-col headerMenu">
-				<!--       <div class=" headerMenuItems">Blogs</div> -->
-				<div class=" headerMenuItems">Downloads</div>
-				<div class=" headerMenuItems">Documentation</div>
-				<!--       <div class=" headerMenuItems">Community</div> -->
-			</div>
-		</div>
-	</div>
-
+<%@include file="header.jsp" %>
 	<div id="atree-body atree-row" class="abody">
 
 		<div id="atreeItemContainer">
