@@ -3,7 +3,7 @@
 <head>
 <title>Atree</title>
 <meta charset="utf-8">
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="resources/css/atree-common.css">
 <link rel="shortcut icon" href="resources/AtreeIcon.jpg" />
 <script src="resources/js/jquery.min.js"></script>
