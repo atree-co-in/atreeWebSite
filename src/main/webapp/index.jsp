@@ -25,8 +25,9 @@
 		<div class="atree-products">
 			<div class=" atree-col atree-product" id="atreeGrid" href="atreeGrid.jsp">
 				<h4>Atree Grid</h4>
+				<a href="https://atree.co.in/atreeGrid.jsp">
 				<img src="resources/atreeGrid.png"
-					style="width: 150px; height: 90px;"></img>
+					style="width: 150px; height: 90px;"></img></a>
 				<p>HTML table plugin to enble search, sort, column shuffle,
 					hide/show column, custom query for bigger tables. Plugin is created
 					in Jquery. This plugin also helps to store users table profile.</p>
